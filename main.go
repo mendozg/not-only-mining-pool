@@ -6,9 +6,9 @@ import (
 	"os"
 
 	logging "github.com/ipfs/go-log/v2"
-	"github.com/mining-pool/not-only-mining-pool/config"
-	"github.com/mining-pool/not-only-mining-pool/pool"
-	"github.com/mining-pool/not-only-mining-pool/utils"
+	"github.com/mendozg/not-only-mining-pool/config"
+	"github.com/mendozg/not-only-mining-pool/pool"
+	"github.com/mendozg/not-only-mining-pool/utils"
 )
 
 var log = logging.Logger("main")

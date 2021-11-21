@@ -11,15 +11,15 @@ import (
 
 	logging "github.com/ipfs/go-log/v2"
 
-	"github.com/mining-pool/not-only-mining-pool/api"
-	"github.com/mining-pool/not-only-mining-pool/bans"
-	"github.com/mining-pool/not-only-mining-pool/config"
-	"github.com/mining-pool/not-only-mining-pool/daemons"
-	"github.com/mining-pool/not-only-mining-pool/jobs"
-	"github.com/mining-pool/not-only-mining-pool/p2p"
-	"github.com/mining-pool/not-only-mining-pool/storage"
-	"github.com/mining-pool/not-only-mining-pool/stratum"
-	"github.com/mining-pool/not-only-mining-pool/utils"
+	"github.com/mendozg/not-only-mining-pool/api"
+	"github.com/mendozg/not-only-mining-pool/bans"
+	"github.com/mendozg/not-only-mining-pool/config"
+	"github.com/mendozg/not-only-mining-pool/daemons"
+	"github.com/mendozg/not-only-mining-pool/jobs"
+	"github.com/mendozg/not-only-mining-pool/p2p"
+	"github.com/mendozg/not-only-mining-pool/storage"
+	"github.com/mendozg/not-only-mining-pool/stratum"
+	"github.com/mendozg/not-only-mining-pool/utils"
 )
 
 var log = logging.Logger("pool")

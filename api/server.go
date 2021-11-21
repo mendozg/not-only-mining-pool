@@ -7,8 +7,8 @@ import (
 
 	"github.com/gorilla/mux"
 	logging "github.com/ipfs/go-log/v2"
-	"github.com/mining-pool/not-only-mining-pool/config"
-	"github.com/mining-pool/not-only-mining-pool/storage"
+	"github.com/mendozg/not-only-mining-pool/config"
+	"github.com/mendozg/not-only-mining-pool/storage"
 )
 
 var log = logging.Logger("api")

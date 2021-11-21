@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	logging "github.com/ipfs/go-log/v2"
-	"github.com/mining-pool/not-only-mining-pool/utils"
+	"github.com/mendozg/not-only-mining-pool/utils"
 	"github.com/mendozg/goyescrypt"
 	"github.com/samli88/go-x11-hash"
 	"golang.org/x/crypto/scrypt"

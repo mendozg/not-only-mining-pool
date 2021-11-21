@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/mining-pool/not-only-mining-pool/utils"
+	"github.com/mendozg/not-only-mining-pool/utils"
 )
 
 func TestHash(t *testing.T) {

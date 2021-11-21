@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mining-pool/not-only-mining-pool/config"
+	"github.com/mendozg/not-only-mining-pool/config"
 )
 
 func TestNewPeer(t *testing.T) {

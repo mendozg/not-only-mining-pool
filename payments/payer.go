@@ -2,7 +2,7 @@ package payments
 
 import (
 	logging "github.com/ipfs/go-log/v2"
-	"github.com/mining-pool/not-only-mining-pool/daemons"
+	"github.com/mendozg/not-only-mining-pool/daemons"
 )
 
 var log = logging.Logger("payments")

@@ -12,14 +12,14 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/mining-pool/not-only-mining-pool/types"
+	"github.com/mendozg/not-only-mining-pool/types"
 
-	"github.com/mining-pool/not-only-mining-pool/bans"
-	"github.com/mining-pool/not-only-mining-pool/config"
-	"github.com/mining-pool/not-only-mining-pool/daemons"
-	"github.com/mining-pool/not-only-mining-pool/jobs"
-	"github.com/mining-pool/not-only-mining-pool/utils"
-	"github.com/mining-pool/not-only-mining-pool/vardiff"
+	"github.com/mendozg/not-only-mining-pool/bans"
+	"github.com/mendozg/not-only-mining-pool/config"
+	"github.com/mendozg/not-only-mining-pool/daemons"
+	"github.com/mendozg/not-only-mining-pool/jobs"
+	"github.com/mendozg/not-only-mining-pool/utils"
+	"github.com/mendozg/not-only-mining-pool/vardiff"
 )
 
 type Client struct {
